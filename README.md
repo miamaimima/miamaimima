@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/miamaimima/miamaimima/output/snake.svg" alt="Snake animation" />
 
 # 💫 About Me:
-🔭 A novice Data Science developer<br>🌌 From Russia<br>📱 16 years old<br>🟥 I am currently studying at school
+🔭 A novice Data Science developer<br>🌌 From Russia<br>📱 17 years old<br>🟥 I am currently studying at school
 
 
 ## 🌐 Socials:
