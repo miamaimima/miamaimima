@@ -9,10 +9,9 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
 <br><br>
 <pre>
+    <h3 align="left">👩‍💻  About Me</h3>
     maisdev.
     currently studying at school, also studying to become a data scientist
     i’m also saving up for a fixed gear bike
