@@ -11,11 +11,15 @@
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
-
-<h3 align="center">maisdev.<br>currently studying at school, also studying to become a data scientist<br>i’m also saving up for a fixed gear bike</h3>
-
-###
+<br><br>
+<pre>
+    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+</pre>
+<br><br>
 
 <h3 align="left">🛠 Language and tools</h3>
 
