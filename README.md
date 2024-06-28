@@ -11,7 +11,7 @@
 
 <br><br>
 <pre>
-    <h4>About Me</h4>
+    About Me
     maisdev.
     currently studying at school, also studying to become a data scientist
     i’m also saving up for a fixed gear bike
