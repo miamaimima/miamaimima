@@ -14,7 +14,6 @@
     About Me
     maisdev.
     currently studying at school, also studying to become a data scientist
-    i’m also saving up for a fixed gear bike
 </pre>
 <br><br>
 
